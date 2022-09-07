@@ -1,6 +1,6 @@
 ﻿//Напишите программу, которая заполнит спирально массив 4 на 4.
 
-int n = 4;
+int n = 6;
 int[,] matrix = new int[n, n];
 
 int temp = 1;
@@ -36,4 +36,4 @@ void WriteArray (int[,] array)
     }
     Console.WriteLine();
   }
-}
+} //111
